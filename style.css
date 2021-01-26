@@ -7,5 +7,4 @@ body {
  background-size: cover; 
  font-family: 'Londrina Solid', cursive;
  }
- h1.text-align { center; }
- p.text-align { center; }
+ h1, p { text-align: center; }
