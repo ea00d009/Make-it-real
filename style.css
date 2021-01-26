@@ -19,4 +19,8 @@ img {
 	display:block;
 	margin:auto;
 }
+.padre {
+   display: flex;
+   align-items: center;
+}
  
