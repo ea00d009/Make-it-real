@@ -1,26 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
- body {
+body {
 	background-image: url("fondo.jpg");
-	background-color: #cccccc;
+	background-color: #ccc;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: 'Gugi', cursive;
-	color: #FFF;
+	color: #FFF
 }
 h1,
 p {
-	text-align: center;
+	text-align: center
 }
 img {
 	overflow: hidden;
 	border-radius: 50%;
 	border: 5px solid #FFF;
-	display:block;
-	margin:auto;
+	display: block;
+	margin: auto
 }
 .padre {
-   display: flex;
-   align-items: center;
+	display: flex;
+	align-items: center
 }
- 
