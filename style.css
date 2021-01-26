@@ -12,3 +12,9 @@ h1,
 p {
 	text-align: center;
 }
+img {
+	overflow: hidden;
+	border-radius: 50%;
+	border: 5px solid #FFF;
+}
+ 
