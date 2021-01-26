@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
-body {
- background-image: url("fondo.jpg");
- background-color: #cccccc;
- background-position: center; 
- background-repeat: no-repeat; 
- background-size: cover; 
- font-family: 'Londrina Solid', cursive;
- color: #FFF;
- }
- h1, p {
- text-align: center;
+ body {
+	background-image: url("fondo.jpg");
+	background-color: #cccccc;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: 'Londrina Solid', cursive;
+	color: #FFF;
+}
+h1,
+p {
+	text-align: center;
 }
