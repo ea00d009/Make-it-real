@@ -6,5 +6,8 @@ body {
  background-repeat: no-repeat; 
  background-size: cover; 
  font-family: 'Londrina Solid', cursive;
+ color: #FFF;
  }
- h1, p { text-align: center; }
+ h1, p {
+ text-align: center;
+}
