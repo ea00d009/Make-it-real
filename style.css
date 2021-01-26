@@ -19,7 +19,9 @@ img {
 	display: block;
 	margin: auto
 }
-.main {
-	display: flex;
-	align-items: center;
+.contenedor {
+	margin: auto;
+	width: 50%;
+	border: 3px solid green;
+	padding: 10px;
 }
