@@ -6,11 +6,8 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-family: 'Gugi', cursive;
-	color: #FFF
-}
-h1,
-p {
-	text-align: center
+	color: #FFF;
+	text-shadow: 2px 2px 2px black;
 }
 img {
 	overflow: hidden;
@@ -20,7 +17,6 @@ img {
 	margin: auto
 }
 .contenedor {
-	margin: auto;
-	width: 50%;
-	padding: 70px 0;
+  padding: 70px 0;
+  text-align: center;
 }
